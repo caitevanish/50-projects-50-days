@@ -1,2 +1,9 @@
-# 50-projects-50-days
-Udemy course 50 Projects in 50 Days - HTML, CSS &amp; JS - project folder and files. Also experimentation with branching.
+# 50 Projects in 50 Days - HTML, CSS &amp; JS
+These are the project files for the Udemy course 50 Projects in 50 Days, taught by Brad Traversy.
+This is also an experimentation with using branches as a way to keep projects together but separate. 
+
+The main branch will contain boiler plate, starter code for the projects; each branch will correspond to the project day/number. 
+
+|  #  | Branch Name                                                                                                                     |                                                                           |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+|  01  | 1 - Expanding Cards                                      |                                                                               |                                                                                                                                     
