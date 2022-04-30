@@ -28,6 +28,9 @@ body {
 
 h1 {
   opacity: 1;
+  /* border: 1px solid red; */
+
+  padding: 3rem 0;
 }
 
 body {
@@ -46,10 +49,11 @@ body {
 }
 
 .progress-container {
+  /* border: 1px solid red; */
   display: flex;
   justify-content: space-between;
   position: relative;
-  margin-bottom: 30px;
+  margin: 30px 0px;
   max-width: 100%;
   width: 350px;
 }
