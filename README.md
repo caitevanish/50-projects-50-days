@@ -9,4 +9,5 @@ The main branch will contain boiler plate/starter code for the projects; each br
 | :-: | ----------- | ------------------------ |
 | 01  | 1ec         | Expanding Cards          |
 | 02  | 2ps         | Progress Steps           |
+| 03  | 3rn         | Rotating Navigation |
 | 07  | 7sp         | Split Landing Page Cards |
